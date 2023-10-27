@@ -1,4 +1,4 @@
-\textbf{Research Journal}
+**Research Journal**
 
 
 $\frac{1}{2}$
